@@ -1,0 +1,100 @@
+,ville,prix,taux,departement,region
+0,Lyon,146€,74 %,Rhône,Auvergne-Rhône-Alpes
+1,Versailles,146€,64 %,Yvelines,Île-de-France
+2,Chamonix,139€,41 %,Haute-Savoie,Auvergne-Rhône-Alpes
+3,Paris,107€,48 %,Paris,Île-de-France
+4,Les Mureaux,115€,66 %,Yvelines,Île-de-France
+5,Antibes,120€,59 %,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+6,Dinard,109€,52 %,Ille-et-Vilaine,Bretagne
+7,Vincennes,134€,68 %,Val-de-Marne,Île-de-France
+8,Cannes,130€,30 %,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+9,Rennes,106€,48 %,Ille-et-Vilaine,Bretagne
+10,Sud Corse,100€,57 %,Corse-du-Sud,Corse
+11,Les Allues,160€,36 %,Savoie,Auvergne-Rhône-Alpes
+12,Le Mans,128€,59 %,Sarthe,Pays de la Loire
+13,Avignon,121€,59 %,Vaucluse,Provence-Alpes-Côte d'Azur
+14,Megèves,196€,39 %,Haute-Savoie,Auvergne-Rhône-Alpes
+15,Saumur,115€,48 %,Maine-et-Loire,Pays de la Loire
+16,Orange,115€,49 %,Vaucluse,Provence-Alpes-Côte d'Azur
+17,Yffiniac,120€,77 %,Côtes d'Armor,Bretagne
+18,Marseille,96€,69 %,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+19,Biarritz,109€,50 %,Pyrénées-Atlantiques,Nouvelle-Aquitaine
+20,Cavaillon,71€,45 %,Vaucluse,Provence-Alpes-Côte d'Azur
+21,Gonesse,87€,55 %,Val-d'Oise,Île-de-France
+22,Bourges,93€,58 %,Cher,Centre-Val de Loire
+23,Gap,82€,52 %,Hautes-Alpes,Provence-Alpes-Côte d'Azur
+24,Laon,75€,44 %,Aisne,Hauts-de-France
+25,Cambrai,77€,56 %,Nord,Hauts-de-France
+26,Montluçon,71€,51 %,Allier,Auvergne-Rhône-Alpes
+27,Chatou,95€,61 %,Yvelines,Île-de-France
+28,Montpellier,62€,60 %,Hérault,Occitanie
+29,Bordeaux,86€,58 %,Gironde,Nouvelle-Aquitaine
+30,Bayonne,71€,58 %,Pyrénées-Atlantiques,Nouvelle-Aquitaine
+31,Toulouse,58€,56 %,Haute-Garonne,Occitanie
+32,Anglet,99€,53 %,Pyrénées-Atlantiques,Nouvelle-Aquitaine
+33,Strasbourg,75€,48 %,Bas-Rhin,Grand Est
+34,Nice,90€,45 %,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+35,Nancy,79€,65 %,Meurthe-et-Moselle,Grand Est
+36,Roubaix,65€,63 %,Nord,Hauts-de-France
+37,Saint Etienne,63€,66 %,Loire,Auvergne-Rhône-Alpes
+38,Clermont-Ferrand,74€,50 %,Puy-de-Dôme,Auvergne-Rhône-Alpes
+39,Brest,55€,53 %,Finistère,Bretagne
+40,Montbéliard,71€,66 %,Doubs,Bourgogne-Franche-Comté
+41,Dijon,96€,54 %,Côte-d'Or,Bourgogne-Franche-Comté
+42,Tourcoing,122€,49 %,Nord,Hauts-de-France
+43,Cholet,87€,47 %,Maine-et-Loire,Pays de la Loire
+44,Ploufragan,65€,65 %,Côtes d'Armor,Bretagne
+45,Reims,90€,53 %,Marne,Grand Est
+46,Amiens,77€,61 %,Somme,Hauts-de-France
+47,Aulnay sous Bois,62€,59 %,Seine-Saint-Denis,Île-de-France
+48,Auxerre,82€,56 %,Yonne,Bourgogne-Franche-Comté
+49,Metz,57€,63 %,Moselle,Grand Est
+50,Dunkerque,72€,54 %,Nord,Hauts-de-France
+51,Caen,100€,49 %,Calvados,Normandie
+52,Angers,112€,52 %,Maine-et-Loire,Pays de la Loire
+53,Villeurbanne,105€,61 %,Rhône,Auvergne-Rhône-Alpes
+54,Perpignan,57€,51 %,Pyrénées-Orientales,Occitanie
+55,Aix-en-Provence,128€,54 %,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+56,Chalon sur Saône,53€,63 %,Saône-et-Loire,Bourgogne-Franche-Comté
+57,Castres,59€,59 %,Tarn,Occitanie
+58,Beauvais,66€,63 %,Oise,Hauts-de-France
+59,Troyes,132€,54 %,Aube,Grand Est
+60,Blois,100€,53 %,Loir-et-Cher,Centre-Val de Loire
+61,Amboise,107€,40 %,Indre-et-Loire,Centre-Val de Loire
+62,Azay sur Cher,121€,47 %,Indre,Centre-Val de Loire
+63,Morlaix,72€,45 %,Finistère,Bretagne
+64,Istres,62€,46 %,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+65,Lille,128€,53 %,Nord,Hauts-de-France
+66,Nimes,91€,40 %,Gard,Occitanie
+67,Arras,66€,64 %,Pas-de-Calais,Hauts-de-France
+68,Dreux,83€,60 %,Eure-et-Loire,Centre-Val de Loire
+69,Poitiers,63€,60 %,Vienne,Nouvelle-Aquitaine
+70,Plérin,67€,74 %,Côtes d'Armor,Bretagne
+71,Vénissieux,70€,61 %,Rhône,Auvergne-Rhône-Alpes
+72,Nantes,98€,56 %,Loire-Atlantique,Pays de la Loire
+73,Valence,64€,62 %,Drôme,Auvergne-Rhône-Alpes
+74,Limoge,57€,70 %,Haute-Vienne,Nouvelle-Aquitaine
+75,Athée sur Cher,80€,57 %,Indre-et-Loire,Centre-Val de Loire
+76,Saint Quentin,91€,54 %,Aisne,Hauts-de-France
+77,Alençon,87€,48 %,Orne,Normandie
+78,Autun,74€,51 %,Saône-et-Loire,Bourgogne-Franche-Comté
+79,Charleville Mézières,87€,50 %,Ardennes,Grand Est
+80,Bois Guillaume,94€,63 %,Seine-Maritime,Normandie
+81,Nevers,61€,68 %,Nièvre,Bourgogne-Franche-Comté
+82,Vierzon,72€,44 %,Cher,Centre-Val de Loire
+83,Roanne,58€,49 %,Loire,Auvergne-Rhône-Alpes
+84,Bléré,81€,56 %,Indre-et-Loire,Centre-Val de Loire
+85,Pont Saint Esprit,73€,40 %,Gard,Occitanie
+86,Epinal,85€,52 %,Vosges,Grand Est
+87,Dole,63€,48 %,Jura,Bourgogne-Franche-Comté
+88,Tarbes,65€,55 %,Hautes-Pyrénées,Occitanie
+89,Trégueux,94€,70 %,Côtes d'Armor,Bretagne
+90,Joué les Tours,76€,56 %,Indre-et-Loire,Centre-Val de Loire
+91,Saint Lo,44€,63 %,Manche,Normandie
+92,Valenciennes,63€,54 %,Nord,Hauts-de-France
+93,Niort,64€,51 %,Deux-Sèvres,Nouvelle-Aquitaine
+94,Privas,64€,44 %,Ardèche,Auvergne-Rhône-Alpes
+95,Arles,81€,57 %,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+96,Saint Nazaire,77€,60 %,Loire-Atlantique,Pays de la Loire
+97,Mont de marsan,71€,63 %,Landes,Nouvelle-Aquitaine
+98,Lamballe,90€,61 %,Côtes d'Armor,Bretagne
